@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "/react-form-formik/static/css/main.e04eedba.chunk.css",
-    "main.js": "/react-form-formik/static/js/main.45622e02.chunk.js",
-    "main.js.map": "/react-form-formik/static/js/main.45622e02.chunk.js.map",
+    "main.js": "/react-form-formik/static/js/main.b576be1f.chunk.js",
+    "main.js.map": "/react-form-formik/static/js/main.b576be1f.chunk.js.map",
     "runtime-main.js": "/react-form-formik/static/js/runtime-main.d1a92b75.js",
     "runtime-main.js.map": "/react-form-formik/static/js/runtime-main.d1a92b75.js.map",
-    "static/js/2.86e81a2d.chunk.js": "/react-form-formik/static/js/2.86e81a2d.chunk.js",
-    "static/js/2.86e81a2d.chunk.js.map": "/react-form-formik/static/js/2.86e81a2d.chunk.js.map",
+    "static/js/2.a3ea6aa6.chunk.js": "/react-form-formik/static/js/2.a3ea6aa6.chunk.js",
+    "static/js/2.a3ea6aa6.chunk.js.map": "/react-form-formik/static/js/2.a3ea6aa6.chunk.js.map",
     "index.html": "/react-form-formik/index.html",
     "static/css/main.e04eedba.chunk.css.map": "/react-form-formik/static/css/main.e04eedba.chunk.css.map",
-    "static/js/2.86e81a2d.chunk.js.LICENSE.txt": "/react-form-formik/static/js/2.86e81a2d.chunk.js.LICENSE.txt"
+    "static/js/2.a3ea6aa6.chunk.js.LICENSE.txt": "/react-form-formik/static/js/2.a3ea6aa6.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.d1a92b75.js",
-    "static/js/2.86e81a2d.chunk.js",
+    "static/js/2.a3ea6aa6.chunk.js",
     "static/css/main.e04eedba.chunk.css",
-    "static/js/main.45622e02.chunk.js"
+    "static/js/main.b576be1f.chunk.js"
   ]
 }
